@@ -20,12 +20,12 @@
         android:layout_width="wrap_content"
         android:layout_marginBottom="10dp"
         android:layout_height="wrap_content"
-        android:text="Identify Disease" />
+        android:text="   Identify Disease  " />
 
     <Button
         android:id="@+id/btnWeedDetection"
         android:layout_width="wrap_content"
         android:layout_marginBottom="10dp"
         android:layout_height="wrap_content"
-        android:text="Detect Weed" />
+        android:text="     Detect Weed    " />
 </androidx.appcompat.widget.LinearLayoutCompat>
